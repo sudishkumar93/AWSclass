@@ -1,0 +1,20 @@
+{
+    "meetup_group" :[
+        {
+            "Name" : "Sudish",
+            "Age" : 32,
+            "Experties" : "ChatBOT"
+        },
+
+        {
+            "Name" : "Vikas",
+            "Age" : 27,
+            "Experties" : "Escalation Email"
+        },
+        {
+            "Name" : "Anchit",
+            "Age" : 24,
+            "Experties" : "AWS"
+        }
+    ]
+}

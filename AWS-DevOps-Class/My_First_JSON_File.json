@@ -1,0 +1,19 @@
+{
+    "name" : "Vikas",
+    "age" : 27,
+    "email" : "vikas95sh@gmail.com"
+
+    [
+        {
+            "class" : "every Saturday at 6:30",
+        } 
+    ]
+},
+
+{
+    "employee" : {
+        "Name" : "VS",
+        "Roll" : 10,
+        "Meetup" : true
+    }
+}

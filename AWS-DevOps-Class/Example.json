@@ -1,0 +1,22 @@
+{
+    "First_Name" : "Vikas",
+    "Last_Name" : "Sharma",
+    "Education" : "B.Sc. IT",
+    "Address" : {
+        "Village" : "Lakari Choube",
+        "Dist" : "Gopalganj",
+        "PIN" : 841425
+    },
+    "Contact Details" : [
+        {
+            "Mobile" : 8744873323,
+            "Type" : "Personal"
+        },
+
+        {
+            "Home" : 99999999,
+            "Landline" : "Home"
+        }
+
+    ]
+}
